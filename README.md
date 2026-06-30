@@ -68,7 +68,7 @@ Python 3
 Jupyter Notebook
 Getting Started
 Clone the Repository
-git clone https://github.com/nikitapoonia06/Python-Decision-Making-and-Functions.git
+git clone https://github.com/snehameenu9090/Python-Decision-Making-and-Functions.git
 cd Task2Python
 Run the Notebook
 Start Jupyter Notebook:
