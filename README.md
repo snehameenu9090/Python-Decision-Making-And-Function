@@ -2,12 +2,12 @@
 A collection of Python programs demonstrating decision-making statements and function-based programming. This project covers conditional logic, reusable functions, parameter passing, return values, variable scope, and practical mini-projects.
 
 
-Overview
+#Overview
 This repository contains beginner-friendly Python programs designed to build a strong foundation in:
 
 
 
-Conditional Statements
+#Conditional Statements
 Nested Conditions
 Multiple Condition Handling
 Functions and Parameters
@@ -21,7 +21,7 @@ The notebook includes both theoretical explanations and practical coding example
 
 
 
-Topics Covered
+#Topics Covered
 Decision Making
 if Statements
 if-else Statements
@@ -74,7 +74,7 @@ Calculates factorial values using reusable functions.
 
 
 
-Technologies Used
+#Technologies Used
 Python 3
 Jupyter Notebook
 Getting Started
@@ -92,12 +92,12 @@ Run all cells to execute the examples and projects.
 
 
 
-Learning Outcomes
+#Learning Outcomes
 By completing this project, you will learn how to:
 
 
 
-Write decision-making programs using conditional statements.
+#Write decision-making programs using conditional statements.
 Handle multiple conditions efficiently.
 Create reusable functions.
 Work with parameters and return values.
