@@ -1,8 +1,11 @@
 # Python-Decision-Making-And-Function
 A collection of Python programs demonstrating decision-making statements and function-based programming. This project covers conditional logic, reusable functions, parameter passing, return values, variable scope, and practical mini-projects.
 
+
 Overview
 This repository contains beginner-friendly Python programs designed to build a strong foundation in:
+
+
 
 Conditional Statements
 Nested Conditions
@@ -13,6 +16,10 @@ Default Parameters
 Variable Scope
 Problem Solving with Python
 The notebook includes both theoretical explanations and practical coding examples.
+
+
+
+
 
 Topics Covered
 Decision Making
@@ -54,6 +61,8 @@ Mini Projects
 Grade Calculator
 Determines student grades based on marks entered by the user.
 
+
+
 Temperature Converter
 Converts Celsius temperature values to Fahrenheit.
 
@@ -62,6 +71,8 @@ Authenticates users using predefined credentials.
 
 Factorial Calculator
 Calculates factorial values using reusable functions.
+
+
 
 Technologies Used
 Python 3
@@ -79,8 +90,12 @@ Open:
 Task2python.ipynb
 Run all cells to execute the examples and projects.
 
+
+
 Learning Outcomes
 By completing this project, you will learn how to:
+
+
 
 Write decision-making programs using conditional statements.
 Handle multiple conditions efficiently.
@@ -88,6 +103,10 @@ Create reusable functions.
 Work with parameters and return values.
 Understand variable scope.
 Develop simple real-world Python applications.
+
+
+
+
 Author
 Sneha
 
